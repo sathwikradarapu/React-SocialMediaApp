@@ -1,0 +1,16 @@
+.sidebar{
+  min-height: 100%;
+}
+.post-card{
+  margin: 20px 50px;
+}
+.form-style{
+  width: 60%;
+  margin-top: 20px;
+}
+.loading-spinner-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
